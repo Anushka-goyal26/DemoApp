@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  DemoApp
+//  Genz_Era
 //
-//  Created by Student on 29/11/25.
+//  Created by Student on 01/12/25.
 //
 
 import SwiftUI
@@ -13,12 +13,14 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, world!")
+            Text("Hello dev !")
         }
         .padding()
+        Image("icons8-instagram-logo-100.png")
     }
 }
 
 #Preview {
     ContentView()
 }
+  
