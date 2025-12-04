@@ -23,7 +23,7 @@ struct Myntra: View {
                     .font(.system(size: 20))
                 
                 NavigationLink{
-            
+                    HomePage()
                 }label: {
                     Text("login")
                         .font(.headline)
